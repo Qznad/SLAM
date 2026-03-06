@@ -34,9 +34,9 @@ Public Class Form1
         End If
 
         Dim csgo As New SourceGame
-        csgo.name = "Counter-Strike: Global Offensive"
-        csgo.id = 730
-        csgo.directory = "common\Counter-Strike Global Offensive\"
+        csgo.name = "CS:GO [Legacy Version]"
+        csgo.id = 4465480
+        csgo.directory = "common\csgo legacy\"
         csgo.ToCfg = "csgo\cfg\"
         csgo.libraryname = "csgo\"
         csgo.exename = "csgo"
